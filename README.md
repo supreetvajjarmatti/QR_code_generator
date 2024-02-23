@@ -12,3 +12,7 @@ Feel free to explore the project [here](https://github.com/supreetvajjarmatti) a
 Let's push the boundaries of Python development together!
 
 ![GitHub](https://github.com/supreetvajjarmatti/QR_code_generator/assets/119556076/eefc1cbb-d51f-4225-aac4-a1debc4bb75a)
+
+
+
+Thank you 🙏
